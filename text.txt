@@ -1,0 +1,20 @@
+What distinguishes normal HTML elements from semantic HTML elements?
+
+   A semantic html element clearly describes its meaning and content to both the browser
+   and the developer e.g (<form>, <table>, <article>), while the normal html elements tells
+   nothing about its content e.g(<div>, <span>).
+
+Explain the disparity between closing tags and self closing tag?
+
+     A self closing tag is a tag that does not need to be closed manually by its closing 
+     tag,which means that the tags have no content and cannot have any children. e.g <br>,<hr>,
+     <input>,<img>,<meta> while 
+     Closing tags needs a closing tag and also child elements exists
+     in closing tag e.g <p>,<div>,<h1>,<h2>.
+
+Differences between inline elements and block elements?
+    A block level element always starts on a new line, and the browsers automatically add 
+    some space (margin) before and after the element and always takes up the full width available
+    e.g <p>,<div>,<header>,<article>. while
+    Inline elements does not start on a new line .An inline element only takes as much width 
+    as necessary e.g <span>,<a>,<i>,<br>
